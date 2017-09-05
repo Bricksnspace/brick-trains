@@ -9,3 +9,5 @@ Uses an infrared proximity sensor to detect train near a station and stop it. Th
 Each track is controlled with its own sensor and relay.
 
 Electronic parts are cheap and easily available on Amazon. 
+
+NB: use gEDA (http://www.geda-project.org/) to open schematic.
